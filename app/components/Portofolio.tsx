@@ -17,7 +17,7 @@ export default function Portfolio() {
       title: "Petik Laut Mayangan",
       subtitle: "Street Photography",
       icon: <Camera className="w-5 h-5 text-gray-700" />,
-      img: "/fotoig.heic",
+      img: "/petiklaut.png",
       desc: "Petik Laut Mayangan adalah sebuah acara tahunan yang diadakan di Pantai Mayangan, Probolinggo. Acara ini menampilkan berbagai kegiatan menarik seperti pertunjukan seni, bazaar kuliner, dan atraksi budaya lokal.",
       tech: ["Canon 80D", "Lightroom", "50mm f/4"],
       link: "https://www.instagram.com/shinata.putra",
