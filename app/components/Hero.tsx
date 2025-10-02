@@ -14,7 +14,7 @@ export default function Hero() {
           transition={{ duration: 0.7, ease: "easeOut" }}
         >
           <img
-            src="/foto.jpg"
+            src="/foto.JPG"
             alt="Profile"
             className="w-44 h-44 lg:w-52 lg:h-52 rounded-full object-cover shadow-md border-4 border-white"
           />

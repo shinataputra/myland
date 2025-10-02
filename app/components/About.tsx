@@ -19,7 +19,7 @@ export default function About() {
           viewport={{ once: true }}
         >
           <img
-            src="/foto2.jpg"
+            src="/foto2.JPG"
             alt="About"
             className=" w-[320px] h-[420px] rounded-xl object-cover shadow-md border-4 border-white"
           />
