@@ -5,11 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export",
     "start": "next start",
-    "lint": "eslint",
-    "predeploy": "npm run build && npm run export",
-    "deploy": "gh-pages -d out -b gh-pages"
+    "lint": "eslint"
   },
   "dependencies": {
     "framer-motion": "^12.23.12",
