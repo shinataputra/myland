@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 export default function Hero() {
   return (
-    <section id="hero" className="h-screen flex items-center bg-gradient-to-br from-white via-gray-50 to-white overflow-hidden">
+    <section id="hero" className="h-screen flex items-center bg-gradient-to-br from-white via-gray-50 to-white overflow-hidden scroll-mt-14 pt-14">
   <div className="w-full max-w-6xl mx-auto flex flex-col lg:flex-row items-center justify-between px-6 lg:px-16">
         
         {/* Foto Profil */}

@@ -49,7 +49,7 @@ export default function SkillsTeaching() {
   return (
     <section
       id="skills"
-      className="py-20 bg-gradient-to-br from-gray-50 via-white to-gray-50"
+      className="py-20 bg-gradient-to-br from-gray-50 via-white to-gray-50 scroll-mt-14 pt-14"
     >
       <div className="max-w-6xl mx-auto flex flex-col lg:flex-row items-start gap-16 px-4 sm:px-6 lg:px-8">
 

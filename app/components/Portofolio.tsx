@@ -27,7 +27,7 @@ export default function Portfolio() {
   return (
     <section
       id="portfolio"
-      className="relative py-20 px-6 bg-gradient-to-br from-gray-50 via-white to-gray-50"
+      className="relative py-20 px-6 bg-gradient-to-br from-gray-50 via-white to-gray-50 scroll-mt-14 pt-14"
     >
       <div className="max-w-5xl mx-auto">
         <motion.h2

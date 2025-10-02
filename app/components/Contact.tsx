@@ -6,7 +6,7 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="relative py-16 px-4 bg-gradient-to-br from-white via-gray-50 to-white"
+      className="relative py-16 px-4 bg-gradient-to-br from-white via-gray-50 to-white scroll-mt-14 pt-14"
     >
       <div className="max-w-4xl mx-auto">
         {/* Heading */}
