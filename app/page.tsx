@@ -1,7 +1,7 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import About from "./components/About";
-import Portfolio from "./components/Portofolio";
+import Portofolio from "./components/Portofolio";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Skills from "./components/Skills";
@@ -20,7 +20,7 @@ export default function Home() {
       <Hero />
       <About />
       <Skills />
-      <Portfolio />
+      <Portofolio />
       <Contact />
       <Footer />
     </main>
